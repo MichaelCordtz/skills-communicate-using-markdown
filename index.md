@@ -5,3 +5,6 @@
 ##### Header 5
 ###### Header 6
 Commit message: testing header formats
+
+Adding image:
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
